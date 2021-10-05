@@ -121,7 +121,8 @@ Traits
 ### Profile Traits
 
 Defensive
-: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact. They have +1 T until they Move out of base contact.
+: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+They have +1 T until they Move out of base contact.
 
 Defiant
 : If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to meet the enemy halfway and count both groups as Attacking.
@@ -136,7 +137,7 @@ Ponderous
 : The Group treats difficult terrain as impassable terrain.
 
 Reckless
-: If the Group is not shaken, it must activate to Attack if possible.
+: If the Group is not shaken, it **must** activate to Attack if possible.
 
 ### Optional Traits
 
@@ -146,34 +147,43 @@ Accurate (2)
 : If the Group has a MI profile, improve the to-hit value by 1.
 
 Apprentice (2)
-: Before the skirmish, choose three spells (ppxx). This Group can be given a Casting order, to attempt to Cast one of those three spells.
+: Before the skirmish, choose three spells.
+This Group can be given a Casting order, to attempt to Cast one of those three spells.
 
 Caster (4)
-: This Group can be given a Casting order, to attempt to Cast any spell (ppxx).
+: This Group can be given a Casting order, to attempt to Cast any spell.
 
 Chariot (2)
 : Cavalry only. +1 T,but treats difficult terrain as impassable terrain.
 
 Composed (2)
-: Groups with the Reckless trait only. Remove Reckless, improve MO activation by one.
+: Groups with the Reckless trait only.
+Remove Reckless, improve MO activation by one.
 
 Cowardly (-2)
 : When making a Resilience test, this Group must always reroll the highest die.
 
 \[Kind\]-Foe (1)
-: Choose an enemy type. This Group gains the Reckless trait against those enemies. If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead. If the chosen enemy type is not in any opposing army, reduce the point cost to 0.
+: Choose an enemy type.
+This Group gains the Reckless trait against those enemies.
+If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead.
+If the chosen enemy type is not in any opposing army, ignore the point cost of this trait.
 
 \[Kind\]bane (4)
-: Choose an enemy type. The Group ignores the Terrifying trait for those enemies, and may reroll each to-hit die once each phase when fighting them. If the chosen enemy type is not in any opposing army, reduce the point cost to 0.
+: Choose an enemy type.
+The Group ignores the Terrifying trait for those enemies, and may reroll each to-hit die once each phase when fighting them.
+If the chosen enemy type is not in any opposing army, ignore the point cost of this trait.
 
 Move Freely (2)
 : The Group ignores all friends, enemies, and terrain while moving.
 
 Offensive (2)
-: Groups with the Defensive trait only. Remove Defensive, improve ME to-hit by 1 when Attacking.
+: Groups with the Defensive trait only.
+Remove Defensive, improve ME to-hit by 1 when Attacking.
 
 Self-Destruct (2)
-: The group may test at 5+ to activate and self-destruct as if Shooting everything within 6”, hitting on a 3+. The group is destroyed at the end of their activation.
+: The group may test at 5+ to activate and self-destruct as if Shooting everything within 6”, hitting on a 3+.
+The group is destroyed at the end of their activation.
 
 Shooters (2)
 : If the Group does not already have a MI profile, add one at 6+ / 5+ / 18”.
@@ -182,10 +192,12 @@ Short-Ranged (-1)
 : If the Group already has a MI profile, reduce range by half.
 
 Stealthy (3)
-: Enemies cannot Shoot this Group. This Group does not block line of sight except for Groups in melee.
+: Enemies cannot Shoot this Group.
+This Group does not block line of sight except for Groups in melee.
 
 Summoner (3)
-: This Group can be given a Summon order (6+) to raise an undeployed group within 12” (and no closer than 6” to an enemy). If successful, the summoned group may attempt to activate this turn.
+: This Group can be given a Summon order (6+) to raise an undeployed group within 12” (and no closer than 6” to an enemy).
+If successful, the summoned group may attempt to activate this turn.
 
 Terrifying(2)
 : When being Attacked by this Group, enemies must reroll their highest die when making Resilience tests.
