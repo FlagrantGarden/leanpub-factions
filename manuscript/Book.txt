@@ -1,2 +1,3 @@
 f1-introduction.md
 m1-companies-and-captains.md
+m2-skirmish-rules.md
