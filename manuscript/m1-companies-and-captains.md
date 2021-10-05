@@ -18,8 +18,6 @@ Both sides should use the same number of points to construct their Companies.
 Consider using smaller tables for smaller Company sizes, and larger tables for larger Companies.
 The distances in Flagrant Factions assume 28mm models, so you may want to modify the distance increments if using larger or smaller models.
 
-{pagebreak}
-
 ## Resilience
 
 A Group’s ability to fight is defined by their current Resilience (R).
@@ -33,12 +31,12 @@ When reduced to 0R, a Group is unable to continue participating: they’re broke
 
 A useful way to express the loss of R on the table is to remove models from a Group. For example, assuming a 12R Group:
 
-* If the Group is made up of 1 model, leave it on the table until R is reduced to 0 (or the Group flees).
-* If the Group is made up of 2 models, remove one model when R drops to 6 or less.
-* If the Group is made up of 3 models, remove one model every time the Group loses 4R (once at 8R, and again at 4R).
-* If the Group is made up of 6 models, remove one model every time the Group loses 2R.
-* If the Group is made up of 12 models, remove one model every time the Group loses 1R.
-* If the Group is made up of 24 models, remove two models every time the Group loses 1R.
+* If the Group consists of 1 model, leave it on the table until R is reduced to 0 (or the Group flees).
+* If the Group consists of 2 models, remove one model when R drops to 6 or less.
+* If the Group consists of 3 models, remove one model every time the Group loses 4R (once at 8R, and again at 4R).
+* If the Group consists of 6 models, remove one model every time the Group loses 2R.
+* If the Group consists of 12 models, remove one model every time the Group loses 1R.
+* If the Group consists of 24 models, remove two models every time the Group loses 1R.
 
 T> It’s best to ensure your model count divides evenly into the R of the Group, but you can have any number you please.
 T> Just remember to update each Group’s R on your roster as it lowers.
@@ -82,13 +80,26 @@ They include: Beast, Cavalry, Foot, Missile, and Engine types, with Elite, Heavy
 
 ### Profile Values
 
-* Name: The type and variant of the Group, followed by their base cost in parentheses.
-* Melee (ME): The minimum roll required to activate the Group to Attack, followed by the minimum result to hit an enemy when attacking, and the minimum result to defend against an Attack.
-* Move (MO): The minimum roll required to activate the Group to Move, followed by the maximum distance in inches they may move if successful.
-* Missile (MI): The minimum roll required to activate the Group to Shoot, followed by the minimum result to hit an enemy when Shooting, followed by the maximum range when Shooting.
-* Resilience (R): The initial fighting strength of the Group, followed by the minimum result to pass a Resilience test.
-* Toughness (T): The number of simultaneous hits required to reduce the Group’s R by 1.
-* Traits: Any additional rules that apply to the Group.
+Name
+: The type and variant of the Group, followed by their base cost in parentheses.
+
+Melee (ME)
+: The minimum roll required to activate the Group to Attack, followed by the minimum result to hit an enemy when attacking, and the minimum result to defend against an Attack.
+
+Move (MO)
+: The minimum roll required to activate the Group to Move, followed by the maximum distance in inches they may move if successful.
+
+Missile (MI)
+: The minimum roll required to activate the Group to Shoot, followed by the minimum result to hit an enemy when Shooting, followed by the maximum range when Shooting.
+
+Resilience (R)
+: The initial fighting strength of the Group, followed by the minimum result to pass a Resilience test.
+
+Toughness (T)
+: The number of simultaneous hits required to reduce the Group’s R by 1.
+
+Traits
+: Any additional rules that apply to the Group.
 
 {width="wide"}
 |       Name        |      ME      |    MO    |      MI       |   R    |   T   | Traits            |
@@ -109,40 +120,90 @@ They include: Beast, Cavalry, Foot, Missile, and Engine types, with Elite, Heavy
 
 ### Profile Traits
 
-* **Defensive:** If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact. They have +1 T until they Move out of base contact.
-* **Defiant:** If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to meet the enemy halfway and count both groups as Attacking.
-* **Elusive:** If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to move up to half their Move distance and Shoot an enemy.
-* **Nimble:** The Group treats difficult terrain as normal terrain.
-* **Ponderous:** The Group treats difficult terrain as impassable terrain.
-* **Reckless:** If the Group is not shaken, it must activate to Attack if possible.
+Defensive
+: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact. They have +1 T until they Move out of base contact.
 
-{pagebreak}
+Defiant
+: If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to meet the enemy halfway and count both groups as Attacking.
+
+Elusive
+: If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to move up to half their Move distance and Shoot an enemy.
+
+Nimble
+: The Group treats difficult terrain as normal terrain.
+
+Ponderous
+: The Group treats difficult terrain as impassable terrain.
+
+Reckless
+: If the Group is not shaken, it must activate to Attack if possible.
 
 ### Optional Traits
 
 Cost in points listed in parenthesis.
 
-* **Accurate (2):** If the Group has a MI profile, improve the to-hit value by 1.
-* **Apprentice (2):** Before the skirmish, choose three spells (ppxx). This Group can be given a Casting order, to attempt to Cast one of those three spells.
-* **Caster (4):** This Group can be given a Casting order, to attempt to Cast any spell (ppxx).
-* **Chariot (2):** Cavalry only. +1 T,but treats difficult terrain as impassable terrain.
-* **Composed (2):** Groups with the Reckless trait only. Remove Reckless, improve MO activation by one.
-* **Cowardly (-2):** When making a Resilience test, this Group must always reroll the highest die.
-* **\[Kind\]-Foe (1):** Choose an enemy type. This Group gains the Reckless trait against those enemies. If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead. If the chosen enemy type is not in any opposing army, reduce the point cost to 0.
-* **\[Kind\]bane (4):** Choose an enemy type. The Group ignores the Terrifying trait for those enemies, and may reroll each to-hit die once each phase when fighting them. If the chosen enemy type is not in any opposing army, reduce the point cost to 0.
-* **Move Freely (2):** The Group ignores all friends, enemies, and terrain while moving.
-* **Offensive (2):** Groups with the Defensive trait only. Remove Defensive, improve ME to-hit by 1 when Attacking.
-* **Self-Destruct (2):** The group may test at 5+ to activate and self-destruct as if Shooting everything within 6”, hitting on a 3+. The group is destroyed at the end of their activation.
-* **Shooters (2):** If the Group does not already have a MI profile, add one at 6+ / 5+ / 18”.
-* **Short-Ranged (-1):** If the Group already has a MI profile, reduce range by half.
-* **Stealthy (3):** Enemies cannot Shoot this Group. This Group does not block line of sight except for Groups in melee.
-* **Summoner (3):** This Group can be given a Summon order (6+) to raise an undeployed group within 12” (and no closer than 6” to an enemy). If successful, the summoned group may attempt to activate this turn.
-* **Terrifying(2):** When being Attacked by this Group, enemies must reroll their highest die when making Resilience tests.
-* **Throwers (1):** If the Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
-* **Unerring (3):** Once each activation, may reroll any dice on a single to-hit roll.
-* **Unfeeling (0):** Automatically pass Resilience tests but round up hits inflicted against the group.
-* **Vicious (3):** To-hit rolls of 6 inflict two hits.
-* **Well-Armed (1):** Once each activation, may reroll all results of 1 on a single to-hit roll.
+Accurate (2)
+: If the Group has a MI profile, improve the to-hit value by 1.
+
+Apprentice (2)
+: Before the skirmish, choose three spells (ppxx). This Group can be given a Casting order, to attempt to Cast one of those three spells.
+
+Caster (4)
+: This Group can be given a Casting order, to attempt to Cast any spell (ppxx).
+
+Chariot (2)
+: Cavalry only. +1 T,but treats difficult terrain as impassable terrain.
+
+Composed (2)
+: Groups with the Reckless trait only. Remove Reckless, improve MO activation by one.
+
+Cowardly (-2)
+: When making a Resilience test, this Group must always reroll the highest die.
+
+\[Kind\]-Foe (1)
+: Choose an enemy type. This Group gains the Reckless trait against those enemies. If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead. If the chosen enemy type is not in any opposing army, reduce the point cost to 0.
+
+\[Kind\]bane (4)
+: Choose an enemy type. The Group ignores the Terrifying trait for those enemies, and may reroll each to-hit die once each phase when fighting them. If the chosen enemy type is not in any opposing army, reduce the point cost to 0.
+
+Move Freely (2)
+: The Group ignores all friends, enemies, and terrain while moving.
+
+Offensive (2)
+: Groups with the Defensive trait only. Remove Defensive, improve ME to-hit by 1 when Attacking.
+
+Self-Destruct (2)
+: The group may test at 5+ to activate and self-destruct as if Shooting everything within 6”, hitting on a 3+. The group is destroyed at the end of their activation.
+
+Shooters (2)
+: If the Group does not already have a MI profile, add one at 6+ / 5+ / 18”.
+
+Short-Ranged (-1)
+: If the Group already has a MI profile, reduce range by half.
+
+Stealthy (3)
+: Enemies cannot Shoot this Group. This Group does not block line of sight except for Groups in melee.
+
+Summoner (3)
+: This Group can be given a Summon order (6+) to raise an undeployed group within 12” (and no closer than 6” to an enemy). If successful, the summoned group may attempt to activate this turn.
+
+Terrifying(2)
+: When being Attacked by this Group, enemies must reroll their highest die when making Resilience tests.
+
+Throwers (1)
+: If the Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
+
+Unerring (3)
+: Once each activation, may reroll any dice on a single to-hit roll.
+
+Unfeeling (0)
+: Automatically pass Resilience tests but round up hits inflicted against the group.
+
+Vicious (3)
+: To-hit rolls of 6 inflict two hits.
+
+Well-Armed (1)
+: Once each activation, may reroll all results of 1 on a single to-hit roll.
 
 {pagebreak}
 
@@ -171,18 +232,18 @@ At the end of the game, each fulfilled ambition earns the player 1-3 VP, and eac
 Optionally, players may reveal any of their chosen ambitions, increasing the worth of each by 1.
 
 {width="wide"}
-|         Ambition         |  VP   | Fulfillment Condition                                                                   |
-| :----------------------: | :---: | :-------------------------------------------------------------------------------------- |
-|    We Will Not Break     |   3   | No Group routed or retreated out of play.                                               |
-|    Win Without Moving    |   3   | Captain’s Group never moved or rolled any dice at all.                                  |
-|       Do Not Waver       |   3   | No more than one friendly Group was ever shaken at the same time.                       |
+| Ambition                 |  VP   | Fulfillment Condition                                                                   |
+| :----------------------- | :---: | :-------------------------------------------------------------------------------------- |
+| We Will Not Break        |   3   | No Group routed or retreated out of play.                                               |
+| Win Without Moving       |   3   | Captain’s Group never moved or rolled any dice at all.                                  |
+| Do Not Waver             |   3   | No more than one friendly Group was ever shaken at the same time.                       |
 | They Will Reel Before Us |   3   | Made 3+ enemy Groups be shaken.                                                         |
 | We Will Snap Their Spine |   3   | Routed or destroyed the enemy Group with the highest point value in your first turn.    |
 | Give Better Than We Get  |   2   | Routed or destroyed more enemy Groups than Groups of your own were routed or destroyed. |
-|  Break Even Their Anvil  |   2   | Routed or destroyed the enemy Group with the highest point value.                       |
-|     Draw First Blood     |   1   | A friendly Group was the first to reduce an enemy Group’s R.                            |
-|  They Will Know My Name  |   1   | Captain’s Group caused an enemy Group to be shaken.                                     |
-|  We Will All Shed Blood  |   1   | Every Group engaged in melee at least once.                                             |
-|   Rain Hell Upon Them    |   1   | Made an enemy group be shaken only by shooting them.                                    |
+| Break Even Their Anvil   |   2   | Routed or destroyed the enemy Group with the highest point value.                       |
+| Draw First Blood         |   1   | A friendly Group was the first to reduce an enemy Group’s R.                            |
+| They Will Know My Name   |   1   | Captain’s Group caused an enemy Group to be shaken.                                     |
+| We Will All Shed Blood   |   1   | Every Group engaged in melee at least once.                                             |
+| Rain Hell Upon Them      |   1   | Made an enemy group be shaken only by shooting them.                                    |
 
 {pagebreak}
