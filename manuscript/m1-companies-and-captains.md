@@ -52,6 +52,7 @@ This model is part of a Group and may not join any other Groups, does not increa
 
 Captains start with one trait (roll or pick from the table below):
 
+{width="wide"}
 |  3d6  |       Trait       | Effect                                                                                                                                                        |
 | :---: | :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   3   | **Reprehensible** | After deployment, whether or not the Captain is on the table, roll 1d6 for every Group except the Captain’s. On a 1, remove that Group from play—they desert. |
@@ -89,6 +90,7 @@ They include: Beast, Cavalry, Foot, Missile, and Engine types, with Elite, Heavy
 * Toughness (T): The number of simultaneous hits required to reduce the Group’s R by 1.
 * Traits: Any additional rules that apply to the Group.
 
+{width="wide"}
 |       Name        |      ME      |    MO    |      MI       |   R    |   T   | Traits            |
 | :---------------: | :----------: | :------: | :-----------: | :----: | :---: | :---------------- |
 |  Heavy Beast (6)  | 5+ / 3+ / 6  | 6+ / 10" |       -       | 6 / 3+ |   4   | Reckless          |
@@ -146,6 +148,7 @@ Cost in points listed in parenthesis.
 
 ### Spells
 
+{width="wide"}
 |    Name    | Check | Range | Target              |              Duration              | Effect                                                                      |
 | :--------: | :---: | :---: | :------------------ | :--------------------------------: | :-------------------------------------------------------------------------- |
 |   Prompt   |  6+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll their activation test.                                    |
@@ -167,6 +170,7 @@ During setup, players may secretly choose any number of different ambitions to f
 At the end of the game, each fulfilled ambition earns the player 1-3 VP, and each unfulfilled ambition subtracts 1 from their VP.
 Optionally, players may reveal any of their chosen ambitions, increasing the worth of each by 1.
 
+{width="wide"}
 |         Ambition         |  VP   | Fulfillment Condition                                                                   |
 | :----------------------: | :---: | :-------------------------------------------------------------------------------------- |
 |    We Will Not Break     |   3   | No Group routed or retreated out of play.                                               |
