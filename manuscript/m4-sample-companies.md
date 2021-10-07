@@ -15,25 +15,26 @@ Any traits which modify the Group's profile have already been accounted for.
 | Hunters [Heavy Cavalry] (5)        | 5+ / 4+ / 5+ | 6+ / 5+ / 6" | 5+ / 10" | 6 / 4+  |   3   | Defiant, Throwers             |
 | Hunters [Heavy Cavalry] (5)        | 5+ / 4+ / 5+ | 6+ / 5+ / 6" | 5+ / 10" | 6 / 4+  |   3   | Defiant, Throwers             |
 
-Apprentice
-: Before the skirmish, choose three spells.
-This Group can be given a Casting order, to attempt to Cast one of those three spells.
+Apprentice (2)
+: Before the skirmish, choose [three spells](#spells).
+This Group may activate to Cast one of those three spells.
 
 Defensive
-: If the Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+: If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
 They have +1 T until they Move out of base contact.
 
 Defiant
-: If the Group is not Shaken, when an enemy successfully activates to Attack them, they may test at 7+ to meet the enemy halfway and count both groups as Attacking.
+: If this Group is not Shaken and not already in melee,
+when an enemy successfully activates to Attack them they may test at 7+ to meet the enemy halfway and count both Groups as attacking for to-hit rolls.
 
 Reckless
-: If the Group is not shaken, it **must** activate to Attack if possible.
+: If this Group is not Shaken, it **must** activate to Attack if possible.
 
-Terrifying
-: When being Attacked by this Group, enemies must reroll their highest die when making Resilience tests.
+Terrifying (2)
+: When Attacked by this Group, enemies must reroll their highest die when Testing Resilience.
 
-Throwers
-: If the Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
+Throwers (1)
+: If this Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
 
 {pagebreak}
 
@@ -49,25 +50,26 @@ Throwers
 | Shieldkin [Heavy Foot] (5)            | 5+ / 3+ / 4+ |       -       | 5+ / 6"  | 12 / 4+ |   3   | Defensive, Well-Armed                  |
 
 Defensive
-: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+: If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
 They have +1 T until they Move out of base contact.
 
 Defiant
-: If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to meet the enemy halfway and count both groups as Attacking.
+: If this Group is not Shaken and not already in melee,
+when an enemy successfully activates to Attack them they may test at 7+ to meet the enemy halfway and count both Groups as attacking for to-hit rolls.
 
 Reckless
-: If the Group is not shaken, it **must** activate to Attack if possible.
+: If this Group is not Shaken, it **must** activate to Attack if possible.
 
-Undead-Foe
+Undead-Foe (1)
 This Group gains the Reckless trait against Undead enemies.
 If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead.
 If there are no Undead in any opposing army, ignore the point cost of this trait.
 
-Vicious
+Vicious (3)
 : To-hit rolls of 6 inflict two hits.
 
-Well-Armed
-: Once each activation, may reroll all results of 1 on a single to-hit roll.
+Well-Armed (1)
+: Once each turn, may reroll all results of 1 on a single to-hit roll.
 
 {pagebreak}
 
@@ -82,22 +84,22 @@ Well-Armed
 | Skeletal Warriors [Light Foot] (3)                   | 6+ / 5+ / 4+ |   -   | 5+ / 8"  | 12 / 4+ |   2   | Defensive, Unfeeling |
 | Skeletal Warriors [Light Foot] (3)                   | 6+ / 5+ / 4+ |   -   | 5+ / 8"  | 12 / 4+ |   2   | Defensive, Unfeeling |
 
-Caster
-: This Group can be given a Casting order, to attempt to Cast any spell.
+Caster (4)
+: This Group may activate to [Cast any spell](#spells).
 
 Defensive
-: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+: If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
 They have +1 T until they Move out of base contact.
 
 Reckless
 : If the Group is not shaken, it **must** activate to Attack if possible
 
-Summoner
-: This Group can be given a Summon order (6+) to raise an undeployed group within 12” (and no closer than 6” to an enemy).
-If successful, the summoned group may attempt to activate this turn.
+Summoner (3)
+: This Group may attempt to activate on 6+ to raise an undeployed Group within 12” (and no closer than 6” to an enemy).
+The summoned Group may attempt to activate this turn.
 
-Unfeeling
-: Automatically pass Resilience tests but round up hits inflicted against the group.
+Unfeeling (0)
+: Automatically pass when Testing Resilience but round up hits inflicted against this Group.
 
 {pagebreak}
 
@@ -114,21 +116,22 @@ Unfeeling
 | Barking Sparks [Light Foot] (5)    | 6+ / 5+ / 4+ |       -       | 5+ / 8" | 12 /4+  |   2   | Defensive, Self-Destruct, Unfeeling |
 
 Defensive
-: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+: If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
 They have +1 T until they Move out of base contact.
 
-Self-Destruct
-: The group may test at 5+ to activate and self-destruct as if Shooting everything within 6”, hitting on a 3+.
-The group is destroyed at the end of their activation.
+Self-Destruct (2)
+: This Group may attempt to activate on 5+ to self-destruct as if Shooting everything within 6”, hitting on a 3+.
+This Group is then Routed at the end of their activation.
 
-Shooters
-: If the Group does not already have a MI profile, add one at 6+ / 5+ / 18”.
+Shooters (2)
+: Groups without an MI profile only.
+Add an MI profile at 6+ / 5+ / 18”.
 
-Throwers
-: If the Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
+Throwers (1)
+: If this Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
 
-Unfeeling
-: Automatically pass Resilience tests but round up hits inflicted against the group.
+Unfeeling (0)
+: Automatically pass when Testing Resilience but round up hits inflicted against this Group.
 
 {pagebreak}
 
@@ -145,26 +148,29 @@ Unfeeling
 | Wyrmkith [Light Beast] (4)      | 5+ / 4+ / 6  |       -       | 6+ / 12" | 6 / 4+  |   3   | Nimble, Reckless    |
 
 Defensive
-: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+: If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
 They have +1 T until they Move out of base contact.
 
 Nimble
-: The Group treats difficult terrain as normal terrain.
+: This Group treats difficult terrain as normal terrain.
 
 Reckless
-: If the Group is not shaken, it **must** activate to Attack if possible.
+: If this Group is not Shaken, it **must** activate to Attack if possible.
 
-Shooters
-: If the Group does not already have a MI profile, add one at 6+ / 5+ / 18”.
+Shooters (2)
+: Groups without an MI profile only.
+Add an MI profile at 6+ / 5+ / 18”.
 
-Short-Ranged
-: If the Group already has a MI profile, reduce range by half.
+Short-Ranged (-1)
+: Groups with an MI profile only.
+Reduce range by half.
 
-Stealthy
-: Enemies cannot Shoot this Group. This Group does not block line of sight except for Groups in melee.
+Stealthy (3)
+: Enemies cannot Shoot this Group.
+This Group does not block line of sight except for Groups in melee.
 
-Well-Armed
-: Once each activation, may reroll all results of 1 on a single to-hit roll.
+Well-Armed (1)
+: Once each turn, may reroll all results of 1 on a single to-hit roll.
 
 {pagebreak}
 
@@ -180,21 +186,23 @@ Well-Armed
 | Neighborhood Defenders [Light Foot] (3) | 6 + / 5+ / 4+ | 6+ / 5+ / 18" | 5+ / 8"  | 12 / 4+ |   2   | Cowardly, Defensive, Shooters |
 | Street Toughs [Light Foot] (4)          | 6+ / 5+ / 4+  |       -       | 5+ / 8"  | 12 / 4+ |   2   | Cowardly, Defensive, Vicious  |
 
-Cowardly
-: When making a Resilience test, this Group must always reroll the highest die.
+Cowardly (-2)
+: When Testing Resilience, this Group must always reroll the highest die.
 
 Defensive
-: If the Group is not shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
+: If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
 They have +1 T until they Move out of base contact.
 
 Defiant
-: If the Group is not shaken, when an enemy successfully activates to Attack them, they may test at 7+ to meet the enemy halfway and count both groups as Attacking.
+: If this Group is not Shaken and not already in melee,
+when an enemy successfully activates to Attack them they may test at 7+ to meet the enemy halfway and count both Groups as attacking for to-hit rolls.
 
-Shooters
-: If the Group does not already have a MI profile, add one at 6+ / 5+ / 18”.
+Shooters (2)
+: Groups without an MI profile only.
+Add an MI profile at 6+ / 5+ / 18”.
 
-Unerring
-: Once each activation, may reroll any dice on a single to-hit roll.
+Unerring (3)
+: Once each turn, may reroll any dice on a single to-hit roll.
 
-Vicious
+Vicious (3)
 : To-hit rolls of 6 inflict two hits.
