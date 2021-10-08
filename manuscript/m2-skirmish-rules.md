@@ -28,7 +28,7 @@ Difficult
 : Each inch of movement through difficult terrain costs 2” of a model’s MO instead of 1”.
 
 Obstacle
-: If a model comes into base contact with an obstacle, it stops its Move for this activation (maintaining cohesion).
+: If a model comes into base contact with an obstacle, it stops its Move for this activation (maintaining Cohesion).
 If a model begins its Move in contact with an obstacle, it ignores the obstacle for the purposes of movement this activation.
 If a model is within 3” of an obstacle, they count as being in Cover.
 
@@ -36,15 +36,10 @@ Cover
 : Reroll all to-hit dice that hit against Groups on the opposite side of Cover.
 
 Obscuring
-: Groups cannot see past obscuring terrain, or more than 3” into it.
+: Groups cannot see past Obscuring terrain, or more than 3” into it.
 
 Impassable
-: Models cannot move through impassable terrain.
-
-## Captains {#captains-rules}
-
-* Cannot leave their Group, and are the last model in their Group to be removed.
-* Friendly Groups within 12” of the Captain’s Group have a +1 bonus when Testing Resilience, unless the Captain’s Group is Shaken.
+: Models cannot move through Impassable terrain.
 
 {pagebreak}
 
@@ -108,7 +103,7 @@ To Attack:
    Each die that shows a result equal to or higher than the Group’s ME to-hit target for Attacking/Defending as appropriate is a hit (Shaken Groups only hit on a 6).
    For each number of hits equal to the enemy’s T, reduce the enemy’s R by 1.
 
-## Retreat {#retreat}
+## Retreating {#retreat}
 
 A Group may activate to Retreat from melee or be forced to Retreat when failing while Testing Resilience.
 
@@ -146,7 +141,7 @@ To Test Resilience:
 If successful and Rallying, the Group is no longer Shaken.
 
 If failed but the final result is greater than 0 the Group Retreats and becomes Shaken (if already Shaken, they lose 1 R instead).
-If the final result is 0 or less, remove the Group from play.
+If the final result is 0 or less, the Group is Routed.
 
 ## Shaken Groups {#shaken-Groups}
 

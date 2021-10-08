@@ -38,14 +38,17 @@ Special Rules
 
 Conclusion Conditions
 : Play ends immediately when either side has no Groups remaining in play.
+
   Defenders gain 2VP for every friendly Group that Escapes and 1VP for every enemy Group Routed.
+
   Attackers gain 1VP for every enemy Group whose R is below its starting value at the end of the game (even if they Escape off the table), and 2VP for every enemy Group Routed.
 
 ## 2: Retreat
 
 Deployment
 : Defenders deploy 12-18” from one edge, and attackers within 8” of the same edge.
-  Each side places one Group at a time, alternating between sides after each Group, until both sides have deployed all the Groups they intend to have on the field at the beginning of play.
+  Each side places one Group at a time, alternating between sides after each Group,
+  until both sides have deployed all the Groups they intend to have on the field at the beginning of play.
 
 First Turn
 : Defenders may choose to go first or allow the attackers to go first.
@@ -58,7 +61,9 @@ Special Rules
 
 Conclusion Conditions
 : Play ends immediately when either side has no Groups remaining in play.
+
   Defenders gain 3VP for each of their Groups that Escape.
+
   Attackers gain 2VP for every enemy Group Routed—they gain 4VP for each enemy Captain’s Group Routed.
 
 {pagebreak}
@@ -86,7 +91,9 @@ Special Rules
 
 Conclusion Conditions
 : Play ends immediately when either side has no Groups remaining in play.
+
   The defenders gain 2VP for each enemy Group Routed, and 1VP for each Asset Token still on the table (either carried by a Group or not).
+
   The attackers gain 3VP for each Asset Token taken off the table.
 
 ## 4: Sortie
@@ -105,7 +112,9 @@ Special Rules
 Conclusion Conditions
 : Play ends immediately when either side has no Groups remaining in play,
   or when the defenders move all of their remaining Groups within 24” of the center and declare an end to their sortie.
+
   Defenders gain 1VP for every enemy Group Routed, 2VP for every enemy engine Group Routed, and 4VP for every Siege Token destroyed.
+
   Attackers gain 2VP for every enemy Group Routed, 1VP for each of their engine Groups which was not Routed, and 3VP for every Siege Token not destroyed.
 
 {pagebreak}
@@ -125,7 +134,9 @@ Special Rules
 
 Conclusion Conditions
 : Play ends when the extractees Escape or are Routed.
+
   Defenders gain 6VP if the extractees Escape and 1VP for every enemy Group Routed.
+
   Attackers gain 4VP if the extractees were Routed, and 2VP for every other enemy Group Routed.
 
 ## 6: Ritual
@@ -140,12 +151,15 @@ First Turn
 
 Special Rules
 : The defender Group bodyguarding the ritualists may not Move.
-If they would be forced to Retreat, they lose 1R instead.
+  If they would be forced to Retreat, they lose 1R instead.
+
   At the beginning of each of the defender’s turns, roll 2d6—if the result is less than the current turn number, the ritual has been completed.
 
 Conclusion Conditions
 : Play ends when the ritual is completed or the bodyguard Group is Routed.
+
   The defenders gain 6VP if the ritual is completed, and 1VP for each enemy Group Routed.
+
   The attackers gain 4VP if the bodyguard Group is Routed.
 
 {pagebreak}

@@ -9,7 +9,7 @@ Each Group is made up of some number of models.
 
 Each side must:
 
-* Field 2-8 Groups costing 1-12 points each, noting their profile to your opponent—the number of models in a Group doesn’t matter.
+* Field 2-8 Groups costing 1-12 points each, noting their profile to your opponents—the number of models in a Group doesn’t matter.
 * Spend no more than 24 points total for a standard game.
 
 ## Scaling Companies {#scaling-companies}
@@ -17,7 +17,7 @@ Each side must:
 Players may agree to scale their Company points up or down from 24 (increments of 6 work well).
 Both sides should use the same number of points to construct their Companies.
 Consider using smaller tables for smaller Company sizes, and larger tables for larger Companies.
-The distances in Flagrant Factions assume 28mm models, so you may want to modify the distance increments if using larger or smaller models.
+The distances assume 28mm models, so you may want to modify the distance increments if using larger or smaller models.
 
 ## Resilience {#resilience}
 
@@ -92,7 +92,7 @@ Move (MO)
 : The minimum roll required to activate the Group to Move, followed by the maximum distance in inches they may Move if successful.
 
 Missile (MI)
-: The minimum roll required to activate the Group to Shoot, followed by the minimum result to hit an enemy when Shooting, followed by the maximum range when Shooting.
+: The minimum roll required to activate the Group to Shoot, followed by the minimum result to hit an enemy when Shooting, followed by the maximum Range when Shooting.
 
 Resilience (R)
 : The initial fighting strength of the Group, followed by the minimum result to pass when Testing Resilience.
@@ -104,19 +104,19 @@ Traits
 : Any additional rules that apply to the Group.
 
 {id="base-profiles", width="wide"}
-|       Name        |      ME      |    MO    |      MI       |   R    |   T   | Traits            |
-| :---------------: | :----------: | :------: | :-----------: | :----: | :---: | :---------------- |
-|  Heavy Beast (6)  | 5+ / 3+ / 6  | 6+ / 10" |       -       | 6 / 3+ |   4   | Reckless          |
-|  Light Beast (4)  | 5+ / 4+ / 6  | 6+ / 12" |       -       | 6 / 4+ |   3   | Reckless, Nimble  |
-| Elite Cavalry (6) | 5+ / 3+ / 5+ | 7+ / 10" |       -       | 6 / 3+ |   4   | Reckless, Defiant |
-| Heavy Cavalry (4) | 5+ / 4+ / 5+ | 5+ / 10" |       -       | 6 / 4+ |   4   | Defiant           |
-| Light Cavalry (4) | 7+ / 5+ / 6  | 5+ / 12" | 6+ / 5+ / 12" | 6 / 5+ |   3   | -                 |
-| Elite Engine (6)  |  - / - / 5+  | 7+ / 4"  | 5+ / 4+ / 24" | 6 / 4+ |   3   | Ponderous         |
-| Heavy Engine (4)  |  - / - / 6   | 8+ / 2"  | 6+ / 5+ / 24" | 6 / 5+ |   2   | Ponderous         |
-| Light Engine (4)  |  - / - / 6   | 8+ / 4"  | 6+ / 5+ / 18" | 6 / 5+ |   1   | -                 |
-|  Elite Foot (5)   | 5+ / 3+ / 4+ | 5+ / 6"  |       -       | 6 / 3+ |   4   | -                 |
-|  Heavy Foot (4)   | 5+ / 3+ / 4+ | 5+ / 6"  |       -       | 6 / 4+ |   3   | Defensive         |
-|  Light Foot (3)   | 6+ / 5+ / 4+ | 5+ / 8"  |       -       | 6 / 4+ |   2   | Defensive         |
+|       Name        |      ME      |    MO    |      MI       |    R    |   T   | Traits            |
+| :---------------: | :----------: | :------: | :-----------: | :-----: | :---: | :---------------- |
+|  Heavy Beast (6)  | 5+ / 3+ / 6  | 6+ / 10" |       -       | 6 / 3+  |   4   | Reckless          |
+|  Light Beast (4)  | 5+ / 4+ / 6  | 6+ / 12" |       -       | 6 / 4+  |   3   | Reckless, Nimble  |
+| Elite Cavalry (6) | 5+ / 3+ / 5+ | 7+ / 10" |       -       | 6 / 3+  |   4   | Reckless, Defiant |
+| Heavy Cavalry (4) | 5+ / 4+ / 5+ | 5+ / 10" |       -       | 6 / 4+  |   3   | Defiant           |
+| Light Cavalry (4) | 7+ / 5+ / 6  | 5+ / 12" | 6+ / 5+ / 12" | 6 / 5+  |   3   | -                 |
+| Elite Engine (6)  |  - / - / 5+  | 7+ / 4"  | 5+ / 4+ / 24" | 6 / 4+  |   3   | Ponderous         |
+| Heavy Engine (4)  |  - / - / 6   | 8+ / 2"  | 6+ / 5+ / 24" | 6 / 5+  |   2   | Ponderous         |
+| Light Engine (4)  |  - / - / 6   | 8+ / 4"  | 6+ / 5+ / 18" | 6 / 5+  |   1   | -                 |
+|  Elite Foot (5)   | 5+ / 3+ / 4+ | 5+ / 6"  |       -       | 12 / 3+ |   4   | -                 |
+|  Heavy Foot (4)   | 6+ / 5+ / 4+ | 5+ / 6"  |       -       | 12 / 4+ |   3   | Defensive         |
+|  Light Foot (3)   | 6+ / 5+ / 4+ | 5+ / 8"  |       -       | 12 / 4+ |   2   | Defensive         |
 
 {pagebreak}
 
@@ -196,24 +196,25 @@ Add an MI profile at 6+ / 5+ / 18”.
 
 Short-Ranged (-1)
 : Groups with an MI profile only.
-Reduce range by half.
+Reduce Range by half.
 
 Stealthy (3)
 : Enemies cannot Shoot this Group.
 This Group does not block line of sight except for Groups in melee.
 
 Summoner (3)
-: This Group may attempt to activate on 6+ to raise an undeployed Group within 12” (and no closer than 6” to an enemy).
+: This Group may attempt to activate on 6+ to summon an undeployed Group within 12” (and no closer than 6” to an enemy).
 The summoned Group may attempt to activate this turn.
 
 Terrifying (2)
 : When Attacked by this Group, enemies must reroll their highest die when Testing Resilience.
 
 Throwers (1)
-: If this Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
+: Groups without an MI profile only.
+Add an MI profile at 6+ / 5+ / 6”.
 
 Unerring (3)
-: Once each turn, may reroll any dice on a single to-hit roll.
+: Once each turn, may reroll any dice that miss when rolling to hit.
 
 Unfeeling (0)
 : Automatically pass when Testing Resilience but round up hits inflicted against this Group.
@@ -222,7 +223,7 @@ Vicious (3)
 : To-hit rolls of 6 inflict two hits.
 
 Well-Armed (1)
-: Once each turn, may reroll all results of 1 on a single to-hit roll.
+: Once each turn, may reroll all 1s when rolling to hit.
 
 {pagebreak}
 
@@ -231,18 +232,18 @@ Well-Armed (1)
 A Group activating to Cast a spell must roll higher than the spell's Check value to do so.
 
 {width="wide"}
-|    Name    | Check | Range | Target              |              Duration              | Effect                                                                      |
-| :--------: | :---: | :---: | :------------------ | :--------------------------------: | :-------------------------------------------------------------------------- |
-|   Prompt   |  6+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll their activation test.                                    |
-|  Embolden  |  6+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll when Testing Resilience.                                  |
-|    Heal    |  7+   |  18”  | Another Group       |                 -                  | Target gains 1 R, up to their maximum.                                      |
-|  Confuse   |  7+   |  18”  | Another Group       | Until the start of your next turn. | Treat Target as Shaken.                                                     |
-|  Entangle  |  7+   |  18”  | Another Group       | Until the start of your next turn. | Target treats all terrain as difficult.                                     |
-|  Obscure   |  7+   |  18”  | Self, Another Group | Until the start of your next turn. | Target may not be  Attacked or Shot at.                                     |
-| Projectile |  7+   |  18”  | Another Group       |                 -                  | As Shoot. Hit on 4+ within 12”, or 5+ at 12-18”.                            |
-|   Enrage   |  7+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll to-hit dice when Attacking or defending.                  |
-|  Fortify   |  7+   |  18”  | Another Group       | Until the start of your next turn. | Target may force enemies to reroll to-hit dice against them, once per roll. |
-|  Counter   |  8+   |  18”  | Group               |                 -                  | End any spell effect on the target as if its duration had ended.            |
+|    Name    | Check | Range | Target              |              Duration              | Effect                                                           |
+| :--------: | :---: | :---: | :------------------ | :--------------------------------: | :--------------------------------------------------------------- |
+|   Prompt   |  6+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll when attempting to Activate.                   |
+|  Embolden  |  6+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll when Testing Resilience.                       |
+|    Heal    |  7+   |  18”  | Another Group       |                 -                  | Target gains 1 R, up to their maximum.                           |
+|  Confuse   |  7+   |  18”  | Another Group       | Until the start of your next turn. | Treat Target as Shaken.                                          |
+|  Entangle  |  7+   |  18”  | Another Group       | Until the start of your next turn. | Target treats all terrain as difficult.                          |
+|  Obscure   |  7+   |  18”  | Self, Another Group | Until the start of your next turn. | Target may not be  Attacked or Shot at.                          |
+| Projectile |  7+   |  18”  | Another Group       |                 -                  | As Shoot. Hit on 4+ within 12”, or 5+ at 12-18”.                 |
+|   Enrage   |  7+   |  18”  | Another Group       | Until the start of your next turn. | Target may reroll to-hit dice in melee.                          |
+|  Fortify   |  7+   |  18”  | Another Group       | Until the start of your next turn. | Target may force enemies to reroll to-hit dice against them.     |
+|  Counter   |  8+   |  18”  | Group               |                 -                  | End any Spell effect on the target as if its duration had ended. |
 
 {pagebreak}
 
@@ -255,7 +256,7 @@ Optionally, players may reveal any of their chosen ambitions, increasing their w
 {width="wide"}
 | Ambition                 |  VP   | Fulfillment Condition                                                   |
 | :----------------------- | :---: | :---------------------------------------------------------------------- |
-| We Will Not Break        |   3   | No Group Routed or Retreated out of play.                               |
+| We Will Not Break        |   3   | No Group Routed.                                                        |
 | Win Without Moving       |   3   | Captain’s Group never moved or rolled any dice at all.                  |
 | Do Not Waver             |   3   | No more than one friendly Group was ever Shaken at the same time.       |
 | They Will Reel Before Us |   3   | Made 3+ enemy Groups be Shaken.                                         |
@@ -265,6 +266,6 @@ Optionally, players may reveal any of their chosen ambitions, increasing their w
 | Draw First Blood         |   1   | A friendly Group was the first to reduce an enemy Group’s R.            |
 | They Will Know My Name   |   1   | Captain’s Group caused an enemy Group to be Shaken.                     |
 | We Will All Shed Blood   |   1   | Every Group engaged in melee at least once.                             |
-| Rain Hell Upon Them      |   1   | Made an enemy Group be Shaken only by shooting them.                    |
+| Rain Hell Upon Them      |   1   | Made an enemy Group be Shaken only by Shooting them.                    |
 
 {pagebreak}

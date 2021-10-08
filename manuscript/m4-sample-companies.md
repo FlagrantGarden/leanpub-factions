@@ -6,12 +6,13 @@ Any traits which modify the Group's profile have already been accounted for.
 
 ## Bearfolk War Party
 
-> Tall humanoid bears with spears and and the mantle of winter; fast, tough, and dedicated to each other.
+> Tall humanoid bears with spears and the mantle of winter; fast, tough, and dedicated to each other.
 
+{width="wide"}
 | Name                               |      ME      |      MI      |    MO    |    R    |   T   | Traits                        |
 | :--------------------------------- | :----------: | :----------: | :------: | :-----: | :---: | :---------------------------- |
 | **Longbraids** [Elite Cavalry] (8) | 5+ / 3+ / 5+ |      -       | 7+ / 10" | 6 / 3+  |   4   | Defiant, Reckless, Terrifying |
-| Aurorans [Heavy Foot] (6)          | 5+ / 3+ / 4+ |      -       | 5+ / 6"  | 12 / 4+ |   3   | Apprentice, Defensive         |
+| Aurorans [Heavy Foot] (6)          | 6+ / 5+ / 4+ |      -       | 5+ / 6"  | 12 / 4+ |   3   | Apprentice, Defensive         |
 | Hunters [Heavy Cavalry] (5)        | 5+ / 4+ / 5+ | 6+ / 5+ / 6" | 5+ / 10" | 6 / 4+  |   3   | Defiant, Throwers             |
 | Hunters [Heavy Cavalry] (5)        | 5+ / 4+ / 5+ | 6+ / 5+ / 6" | 5+ / 10" | 6 / 4+  |   3   | Defiant, Throwers             |
 
@@ -34,7 +35,8 @@ Terrifying (2)
 : When Attacked by this Group, enemies must reroll their highest die when Testing Resilience.
 
 Throwers (1)
-: If this Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
+: Groups without an MI profile only.
+Add an MI profile at 6+ / 5+ / 6”.
 
 {pagebreak}
 
@@ -42,28 +44,29 @@ Throwers (1)
 
 > Veteran soldiers cut loose from the powers that bound them, seeking meaning and resources in a bloody world.
 
+{width="wide"}
 | Name                                  |      ME      |      MI       |    MO    |    R    |   T   | Traits                                 |
 | :------------------------------------ | :----------: | :-----------: | :------: | :-----: | :---: | :------------------------------------- |
 | **Lancers** [Elite Cavalry] (10)      | 5+ /3+ / 5+  |       -       | 7+ / 10" | 6 / 3+  |   4   | Defiant, Reckless, Undead-Foe, Vicious |
 | Mounted Crossbows [Light Cavalry] (4) | 7+ / 5+ / 6  | 6+ / 5+ / 12" | 5+ / 12" | 6 / 5+  |   3   | -                                      |
-| Shieldkin [Heavy Foot] (5)            | 5+ / 3+ / 4+ |       -       | 5+ / 6"  | 12 / 4+ |   3   | Defensive, Well-Armed                  |
-| Shieldkin [Heavy Foot] (5)            | 5+ / 3+ / 4+ |       -       | 5+ / 6"  | 12 / 4+ |   3   | Defensive, Well-Armed                  |
+| Shieldkin [Heavy Foot] (5)            | 6+ / 5+ / 4+ |       -       | 5+ / 6"  | 12 / 4+ |   3   | Defensive, Well-Armed                  |
+| Shieldkin [Heavy Foot] (5)            | 6+ / 5+ / 4+ |       -       | 5+ / 6"  | 12 / 4+ |   3   | Defensive, Well-Armed                  |
 
 Defensive
 : If this Group is not Shaken, in rough ground, or in cover, they may Move into a defensive formation with all models in base contact.
-They have +1 T until they Move out of base contact.
+  They have +1 T until they Move out of base contact.
 
 Defiant
 : If this Group is not Shaken and not already in melee,
-when an enemy successfully activates to Attack them they may test at 7+ to meet the enemy halfway and count both Groups as attacking for to-hit rolls.
+  when an enemy successfully activates to Attack them they may test at 7+ to meet the enemy halfway and count both Groups as attacking for to-hit rolls.
 
 Reckless
 : If this Group is not Shaken, it **must** activate to Attack if possible.
 
 Undead-Foe (1)
-This Group gains the Reckless trait against Undead enemies.
-If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead.
-If there are no Undead in any opposing army, ignore the point cost of this trait.
+: This Group gains the Reckless trait against Undead enemies.
+  If this Group is already Reckless, they automatically pass their activation to Attack those enemies instead.
+  If there are no Undead in any opposing army, ignore the point cost of this trait.
 
 Vicious (3)
 : To-hit rolls of 6 inflict two hits.
@@ -77,6 +80,7 @@ Well-Armed (1)
 
 > The dead arise to the Necromancer's call and do their bidding, held together by malefic energies.
 
+{width="wide"}
 | Name                                                 |      ME      |  MI   |    MO    |    R    |   T   | Traits               |
 | :--------------------------------------------------- | :----------: | :---: | :------: | :-----: | :---: | :------------------- |
 | **Necromancer & Revenant Knights** [Elite Foot] (12) | 5+ / 3+ / 4+ |   -   | 5+ / 6"  | 12 / 3+ |   4   | Caster, Summoner     |
@@ -107,6 +111,7 @@ Unfeeling (0)
 
 > Cold steel made warm with sentience, they fulfill their own purpose now, led by their towering Titan.
 
+{width="wide"}
 | Name                               |      ME      |      MI       |   MO    |    R    |   T   | Traits                              |
 | :--------------------------------- | :----------: | :-----------: | :-----: | :-----: | :---: | :---------------------------------- |
 | **Titan** [Elite Foot] (5)         | 5+ / 3+ / 4+ |       -       | 5+ / 6" | 12 / 3+ |   4   | -                                   |
@@ -128,7 +133,8 @@ Shooters (2)
 Add an MI profile at 6+ / 5+ / 18”.
 
 Throwers (1)
-: If this Group does not already have a MI profile, add one at 6+ / 5+ / 6”.
+: Groups without an MI profile only.
+Add an MI profile at 6+ / 5+ / 6”.
 
 Unfeeling (0)
 : Automatically pass when Testing Resilience but round up hits inflicted against this Group.
@@ -139,6 +145,7 @@ Unfeeling (0)
 
 > Mariners, raiders from the mythic dawn, they bring bronze blades and eldritch flame to scour their foes from every beach and river.
 
+{width="wide"}
 | Name                            |      ME      |      MI       |    MO    |    R    |   T   | Traits              |
 | :------------------------------ | :----------: | :-----------: | :------: | :-----: | :---: | :------------------ |
 | **Bronzeclad** [Elite Foot] (6) | 5+ / 3+ / 4+ |       -       | 5+ / 6"  | 12 / 3+ |   4   | Well-Armed          |
@@ -176,8 +183,9 @@ Well-Armed (1)
 
 ## Citizen's Defense Force
 
-> The last hope of a people thrust into conflict, everyone of fighting age and shape with whatever implements they can scrounge to defend their homes.
+> The last hope of a people thrust into conflict, everyone of fighting age & shape with implements scrounged to defend their homes.
 
+{width="wide"}
 | Name                                    |      ME       |      MI       |    MO    |    R    |   T   | Traits                        |
 | :-------------------------------------- | :-----------: | :-----------: | :------: | :-----: | :---: | :---------------------------- |
 | **First Citizens** [Heavy Cavalry] (7)  | 5+ / 4+ / 5+  |       -       | 5+ / 10" | 6 / 4+  |   3   | Defiant, Unerring             |
@@ -185,6 +193,7 @@ Well-Armed (1)
 | Neighborhood Defenders [Light Foot] (3) | 6 + / 5+ / 4+ | 6+ / 5+ / 18" | 5+ / 8"  | 12 / 4+ |   2   | Cowardly, Defensive, Shooters |
 | Neighborhood Defenders [Light Foot] (3) | 6 + / 5+ / 4+ | 6+ / 5+ / 18" | 5+ / 8"  | 12 / 4+ |   2   | Cowardly, Defensive, Shooters |
 | Street Toughs [Light Foot] (4)          | 6+ / 5+ / 4+  |       -       | 5+ / 8"  | 12 / 4+ |   2   | Cowardly, Defensive, Vicious  |
+| Kennel Hounds [Light Beast] (4)         |  5+ / 4+ / 6  |       -       | 6+ / 12" | 6 / 4+  |   3   | Nimble, Reckless              |
 
 Cowardly (-2)
 : When Testing Resilience, this Group must always reroll the highest die.
@@ -196,6 +205,9 @@ They have +1 T until they Move out of base contact.
 Defiant
 : If this Group is not Shaken and not already in melee,
 when an enemy successfully activates to Attack them they may test at 7+ to meet the enemy halfway and count both Groups as attacking for to-hit rolls.
+
+Nimble
+: This Group treats difficult terrain as normal terrain.
 
 Shooters (2)
 : Groups without an MI profile only.
